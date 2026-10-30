@@ -236,10 +236,6 @@ Run the tests from inside `e2e/` because they read `test_data/users.csv` using a
 - Booking system for scheduling property visits and reservation requests
 - Notifications for booking updates, listing changes, and account activity
 
-## Author
-
-**Zaidy Mughal**: [@zaidy-mughal](https://github.com/zaidy-mughal)
-
 ## License
 
 No license has been specified yet. Add a `LICENSE` file (for example MIT) before others reuse the code.
